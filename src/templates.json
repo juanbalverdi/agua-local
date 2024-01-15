@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Header",
+    "image": "https://chakra-ui.com/docs/components/heading",
+    "description": "Component that represents the header of the page",
+    "category": "Navigation and Page Design"
+  },
+  {
+    "name": "Footer",
+    "image": "https://tailwindui.com/components/marketing/sections/footers",
+    "description": "Component that represents the footer of the page",
+    "category": "Navigation and Page Design"
+  },
+  {
+    "name": "Navbar",
+    "image": "https://tailwindui.com/components/application-ui/navigation/navbars",
+    "description": "Main navigation bar of the page",
+    "category": "Navigation and Page Design"
+  },
+  {
+    "name": "Sidebar",
+    "image": "https://tailwindui.com/components/application-ui/application-shells/sidebar",
+    "description": "Side navigation bar on the page",
+    "category": "Navigation and Page Design"
+  },
+  {
+    "name": "LoginForm",
+    "image": "https://tailwindui.com/components/application-ui/forms/sign-in-forms",
+    "description": "Login form for users",
+    "category": "Forms and Authentication"
+  },
+  {
+    "name": "SignUpForm",
+    "image": "https://tailwindui.com/components/application-ui/forms/sign-in-forms",
+    "description": "Registration form for new users",
+    "category": "Forms and Authentication"
+  },
+  {
+    "name": "Primary Button",
+    "image": "https://mui.com/material-ui/react-button/",
+    "description": "Primary button used for highlighted actions",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Secondary Button",
+    "image": "https://tailwindui.com/components/application-ui/elements/buttons",
+    "description": "Secondary button for less prominent actions",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Toggle On",
+    "image": "https://tailwindui.com/components/application-ui/forms/toggles",
+    "description": "Switch to represent the activated state of a property",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Toggle Off",
+    "image": "https://tailwindui.com/components/application-ui/forms/toggles",
+    "description": "Switch to represent the deactivated state of a property",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Carousel",
+    "image": "https://mui.com/material-ui/react-stepper/#text-with-carousel-effect",
+    "description": "Sliding component to dynamically display content",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Warning Alert",
+    "image": "https://tailwindui.com/components/application-ui/feedback/alerts",
+    "description": "Visual alert for warning messages",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Error Alert",
+    "image": "https://mui.com/material-ui/react-alert/#basic-alerts",
+    "description": "Visual alert for error messages",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "Success Alert",
+    "image": "https://mui.com/material-ui/react-alert/#basic-alerts",
+    "description": "Visual alert for success or confirmation messages",
+    "category": "Interactive Elements"
+  },
+  {
+    "name": "SearchBar 1",
+    "image": "",
+    "description": "Search bar for search functionality",
+    "category": "Utilities and Controls"
+  },
+  {
+    "name": "SearchBar 2",
+    "image": "",
+    "description": "Second variant of the search bar",
+    "category": "Utilities and Controls"
+  },
+  {
+    "name": "Date Picker",
+    "image": "https://mui.com/x/react-date-pickers/getting-started/",
+    "description": "Date selector to facilitate date selection",
+    "category": "Utilities and Controls"
+  },
+  {
+    "name": "ProgressBar",
+    "image": "https://chakra-ui.com/docs/components/progress",
+    "description": "Progress bar to indicate the progress of a task",
+    "category": "Utilities and Controls"
+  },
+  {
+    "name": "Dashboard",
+    "image": "https://mui.com/material-ui/getting-started/templates/dashboard/",
+    "description": "Main panel showing charts, summaries, and quick access to functionalities",
+    "category": "Specific Applications"
+  },
+  {
+    "name": "Settings Panel",
+    "image": "https://tailwindui.com/components/application-ui/page-examples/settings-screens",
+    "description": "Configuration panel for settings and preferences",
+    "category": "Specific Applications"
+  },
+  {
+    "name": "Payment Form",
+    "image": "https://tailwindui.com/components/ecommerce/components/checkout-forms",
+    "description": "Form for entering payment information",
+    "category": "Specific Applications"
+  },
+  {
+    "name": "Order History",
+    "image": "https://tailwindui.com/components/ecommerce/components/order-history",
+    "description": "User's history of orders and transactions",
+    "category": "Specific Applications"
+  },
+  {
+    "name": "Task List",
+    "image": "https://mui.com/material-ui/react-list/",
+    "description": "List of pending or to-do tasks",
+    "category": "Specific Applications"
+  },
+  {
+    "name": "Chat Window",
+    "image": "",
+    "description": "Chat window for real-time communication",
+    "category": "Specific Applications"
+  }
+]
